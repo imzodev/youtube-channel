@@ -1,295 +1,173 @@
 {
-  "pageType": { "type": "product" },
-  "hero": {
-    "title": "ALLSET Template: AI-Powered Landing Pages",
-    "image": "/placeholder.jpg",
-    "description": "Launch professional, high-converting landing pages in minutes—no design or technical skills required. Completely free to download!",
-    "primaryCta": {
-      "text": "Download Now (Free)",
-      "link": "#cta"
-    },
-    "secondaryCta": {
-      "text": "Learn More",
-      "link": "#features"
-    }
+  "pageType": {
+    "type": "youtube"
   },
-  "services": {
-    "title": "Key Benefits of ALLSET Template",
-    "description": "Unlock the power of AI to revolutionize your landing page creation process.",
-    "items": [
+  "seo": {
+    "title": "Imzo Dev - Canal de YouTube",
+    "description": "El canal de YouTube de Imzo Dev, donde aprenderás a dominar la IA y automatizar tu vida de forma gratuita. Tutoriales innovadores, herramientas gratis y trucos exclusivos.",
+    "keywords": [
+      "IA gratis",
+      "Automatización",
+      "Tutoriales IA",
+      "Google Gemini",
+      "ChatGPT",
+      "Midjourney",
+      "Imzo Dev",
+      "Inteligencia Artificial",
+      "Desarrollo sin código"
+    ]
+  },
+  "channelInfo": {
+    "name": "Imzo Dev",
+    "description": "Tutoriales innovadores para dominar la IA y automatizar tu vida. ¡Conviértete en un ninja de la tecnología!",
+    "subscriberCount": "1.1K+",
+    "joinLink": "https://www.youtube.com/channel/UC8fbfTTNyKjeWrTPgUYBjPg?sub_confirmation=1",
+    "profileImage": "/static/images/imzodev_logo.jpg",
+    "image": "/static/images/landing-channelInfo.png",
+    "imagePrompt": "Imagen de banner para el canal de YouTube. Representa un ambiente futurista con elementos de código, inteligencia artificial y automatización. Evitar texto.",
+    "joinDate": "Enero 2024",
+    "totalViews": "70K+",
+    "links": [
       {
-        "title": "AI-Powered Content Generation",
-        "description": "Let our AI create compelling features, FAQs, testimonials, and more, tailored to your business.",
-        "icon": "FaIndustry",
-        "image": "/placeholder.jpg"
+        "platform": "XTwitter",
+        "url": "https://x.com/imzodev",
+        "icon": "FaXTwitter"
       },
       {
-        "title": "SEO Blog Generator",
-        "description": "Boost your search engine rankings with AI-generated blog posts, driving organic traffic to your site.",
-        "icon": "FaTools",
-        "image": "/placeholder.jpg"
+        "platform": "LinkedIn",
+        "url": "https://linkedin.com/in/imzodev",
+        "icon": "FaLinkedin"
       }
     ]
   },
-  "projects": {
-    "title": "Landing Page Templates",
-    "description": "Explore our range of professionally designed templates to suit your specific business needs.",
+  "featuredVideos": {
+    "title": "Videos Destacados",
+    "description": "Échale un ojo a los videos más populares y recientes de Imzo Dev. ¡Aprende algo nuevo hoy!",
     "items": [
       {
-        "title": "E-commerce Template",
-        "description": "Showcase your products and drive sales with a visually appealing and conversion-optimized e-commerce landing page.",
-        "image": "/placeholder.jpg",
-        "category": "E-commerce",
-        "completionDate": "October 2024"
+        "id": "crtKs1v-A2o",
+        "title": "🔥 ¡API de Google Gemini es GRATIS y esto es lo que puede hacer por ti! 🚀 (Lee un ticket de compra)",
+        "description": "Descubre cómo usar la API de Google Gemini GRATIS para leer tickets de compra y automatizar tareas.",
+        "thumbnail": "/static/images/youtube/google-gemini-vision-api.png",
+        "viewCount": "13K",
+        "duration": "8:36",
+        "publishedAt": "4 months ago",
+        "url": "https://youtube.com/watch?v=crtKs1v-A2o"
+      },
+      {
+        "id": "gWQHuLyIeIg",
+        "title": "De Voz a SQL con Gemini! (Así automatizo Mi App de presupuesto con IA GRATIS)",
+        "description": "Automatiza tu app de presupuesto con IA GRATIS usando Gemini para convertir voz a SQL.",
+        "thumbnail": "/static/images/youtube/google-gemini-voz-sql.png",
+        "viewCount": "3.5K",
+        "duration": "20:20",
+        "publishedAt": "4 months ago",
+        "url": "https://youtube.com/watch?v=gWQHuLyIeIg"
+      },
+      {
+        "id": "3zieSW8Ryvg",
+        "title": "Guía DEFINITIVA de MCP Servers: Usalo en tu IDE (Typescript Curso intensivo)",
+        "description": "Domina flujos complejos de IA sin vendor lock-in: Guía MCP para desarrolladores.",
+        "thumbnail": "/static/images/youtube/mcp-servers-typescript-curso.png",
+        "viewCount": "219",
+        "duration": "29:27",
+        "publishedAt": "1 month ago",
+        "url": "https://youtube.com/watch?v=3zieSW8Ryvg"
       }
     ]
   },
-  "mainFeatures": {
-    "title": "Main Features",
-    "description": "ALLSET Template's AI-driven power at your fingertips.",
+  "playlists": {
+    "title": "Listas de Reproducción",
+    "description": "Explora nuestras listas de reproducción para encontrar contenido específico sobre IA, automatización y desarrollo sin código.",
+    "image": "/static/images/landing-playlists.jpg",
+    "imagePrompt": "Imagen de fondo abstracta con elementos de código binario y redes neuronales, representando el concepto de playlists de programación e inteligencia artificial.",
     "items": [
       {
-        "id": 1,
-        "icon": "FaBolt",
-        "title": "Instant Content Creation",
-        "description": "Generate all the essential landing page content in seconds.",
-        "image": "/static/images/feat1.jpg"
+        "id": "PLfCE6kXthdEx8m_3KQmWfcn8_MdplAFaX",
+        "title": "Tips y Trucos para Desarrolladores",
+        "description": "En esta lista encontrarás los mejores tips, trucos y atajos para optimizar tu flujo de trabajo como desarrollador. Desde herramientas esenciales como Visual Studio Code hasta consejos prácticos para mejorar tu productividad y habilidades en programación. ¡Sigue esta playlist para convertirte en un pro del desarrollo!",
+        "videoCount": 60,
+        "thumbnail": "/static/images/youtube/tips-ia-gemini-openai.png",
+        "lastUpdated": "3 days ago",
+        "url": "https://www.youtube.com/playlist?list=PLfCE6kXthdEx8m_3KQmWfcn8_MdplAFaX"
       },
       {
-        "id": 2,
-        "icon": "FaShieldAlt",
-        "title": "SEO Optimization",
-        "description": "Attract more organic traffic with SEO-optimized content.",
-        "image": "/static/images/feat2.jpg"
+        "id": "PLfCE6kXthdEw1elcwWYbQDPKLMT9xKudd",
+        "title": "Cursos",
+        "description": "En esta lista encontrarás los mejores cursos para aprender a dominar la IA y automatización.",
+        "videoCount": 4,
+        "thumbnail": "/static/images/youtube/curso-mcpserver-ai-agents-openai.png",
+        "lastUpdated": "3 days ago",
+        "url": "https://www.youtube.com/watch?v=3zieSW8Ryvg&list=PLfCE6kXthdEw1elcwWYbQDPKLMT9xKudd"
       },
       {
-        "id": 3,
-        "icon": "FaShieldAlt",
-        "title": "Professional Results",
-        "description": "Get landing pages that are visually appealing, optimized for conversions, and ready to attract customers.",
-        "image": "/static/images/feat3.jpg"
-      }
-    ]
-  },
-  "features": {
-    "title": "More Features",
-    "description": "Explore the features that make ALLSET Template the best choice for your landing page needs.",
-    "items": [
-      {
-        "title": "5 Professional Templates",
-        "description": "Choose from five beautifully designed, ready-to-use layouts.",
-        "icon": "FiUsers"
-      },
-      {
-        "title": "Mobile-Responsive Design",
-        "description": "Ensure your landing pages look great on any device.",
-        "icon": "FiSmartphone"
-      },
-      {
-        "title": "Customizable Templates",
-        "description": "Easily modify the templates to match your brand.",
-        "icon": "FiEdit"
-      },
-      {
-        "title": "Free to Use",
-        "description": "ALLSET Template is completely free to download and use.",
-        "icon": "FiEdit"
-      },
-      {
-        "title": "No Design or Technical Skills Required",
-        "description": "ALLSET Template is designed to be user-friendly, even if you have zero technical experience. Our AI generates all the necessary content, and our templates are easy to customize.",
-        "icon": "FiEdit"
-      },
-      {
-        "title": "Time-Saving Automation",
-        "description": "Focus on your business, not building landing pages.",
-        "icon": "FiEdit"
+        "id": "PLfCE6kXthdEw3l0X-SKHCOKKk7ooPUk9K",
+        "title": "Reacciones Tech: Innovaciones del Futuro",
+        "description": "En esta playlist encontrarás mis reacciones y análisis a las últimas innovaciones tecnológicas que están revolucionando el mundo. Desde realidad aumentada hasta inteligencia artificial, exploramos cómo estas tecnologías podrían cambiar nuestra vida diaria. ¡No te pierdas estas increíbles novedades y acompáñame mientras descubrimos el futuro juntos!",
+        "videoCount": 9,
+        "thumbnail": "/static/images/youtube/reacciones-tech-gemini-openai-claude-deepseek.png",
+        "lastUpdated": "3 days ago",
+        "url": "https://studio.youtube.com/playlist/PLfCE6kXthdEw3l0X-SKHCOKKk7ooPUk9K"
       }
     ]
   },
   "cta": {
-    "title": "Ready to Launch Your Landing Page?",
-    "description": "Download ALLSET Template for free and start building today!",
-    "button": {
-      "text": "Download Now (Free)",
-      "link": "#"
-    },
-    "collectEmail": true
-  },
-  "stats": {
-    "title": "Trusted by Businesses Worldwide",
-    "description": "Join our growing community of satisfied users.",
-    "items": [
+    "subscribeText": "¡Suscríbete al canal!",
+    "subscribeLink": "https://youtube.com/channel/UC8fbfTTNyKjeWrTPgUYBjPg?sub_confirmation=1",
+    "joinText": "¡Únete a la comunidad!",
+    "joinLink": "https://youtube.com/channel/UC8fbfTTNyKjeWrTPgUYBjPg/join",
+    "socialLinks": [
       {
-        "value": "95%",
-        "label": "User Satisfaction"
-      },
-      {
-        "value": "5",
-        "label": "Professional Templates"
-      },
-      {
-        "value": "1K+",
-        "label": "Downloads"
-      },
-      {
-        "value": "2+",
-        "label": "AI based features"
+        "platform": "Patreon",
+        "url": "https://patreon.com/ImzoDev",
+        "icon": "FaPatreon"
       }
     ]
   },
-  "faqs": {
-    "title": "Frequently Asked Questions",
-    "description": "Everything you need to know about ALLSET Template.",
-    "questions": [
+  "about": {
+    "title": "Acerca de Imzo Dev",
+    "content": "¡Qué está pasando con el mundo! Soy Irving Zamora (Imzo Dev), te enseño a dominar la IA y automatizar tu vida de forma fácil y sin complicaciones. Aquí encontrarás tutoriales innovadores, herramientas gratis y trucos exclusivos. Mi misión es democratizar el acceso a la tecnología y ayudarte a convertirte en un ninja de la programación, ¡sin importar tu nivel de experiencia!",
+    "stats": [
       {
-        "question": "Is ALLSET Template really free?",
-        "answer": "Yes! You can download and use ALLSET Template completely free of charge. Simply provide your email address to get started."
+        "label": "Unido",
+        "value": "Enero 2024"
       },
       {
-        "question": "Can you create a custom solution for my specific needs?",
-        "answer": "Absolutely! If you need a tailored solution that goes beyond our standard templates, our team can build a custom solution specifically for your requirements. Contact us to discuss your project and get a quote."
-      },
-      {
-        "question": "Do I need any design or technical skills to use ALLSET Template?",
-        "answer": "No, ALLSET Template is designed to be user-friendly, even if you have zero technical experience. Our AI generates all the necessary content, and our templates are easy to customize."
-      },
-      {
-        "question": "How does the AI content generation work?",
-        "answer": "Simply describe your business or product, and our AI will instantly create all the essential content for your landing page, including features, FAQs, testimonials, and calls to action."
-      },
-      {
-        "question": "Can I customize the templates and AI-generated content?",
-        "answer": "Yes, you have full control over your landing page. You can easily customize the templates, edit the AI-generated content, and add your own branding."
-      },
-      {
-        "question": "What kind of support do you offer?",
-        "answer": "We offer email support to help you get the most out of ALLSET Template. We're also constantly improving our platform based on user feedback."
-      }
-    ]
-  },
-  "pricing": {
-    "title": "Pricing (No Cost)",
-    "description": "ALLSET Template is free to download. Future premium features may be available.",
-    "plans": [
-      {
-        "name": "Free",
-        "price": "$0",
-        "description": "Get started with ALLSET Template for free!",
-        "features": [
-          {
-            "text": "5 Professional Templates"
-          },
-          {
-            "text": "AI-Powered Content Generation"
-          },
-          {
-            "text": "SEO Blog Generator"
-          }
-        ],
-        "cta": {
-          "text": "Download Now",
-          "link": "#cta"
-        },
-        "highlighted": true
-      },
-      {
-        "name": "Premium (Coming Soon)",
-        "price": "TBD",
-        "description": "Unlock advanced features and priority support.",
-        "features": [
-          {
-            "text": "All Free features"
-          },
-          {
-            "text": "Advanced Analytics"
-          },
-          {
-            "text": "A/B Testing"
-          },
-          {
-            "text": "AI Customer Service Agent"
-          },
-          {
-            "text": "Enhanced Blog Generation with Smart Images"
-          },
-          {
-            "text": "Priority Support"
-          }
-        ],
-        "cta": {
-          "text": "Join Waitlist",
-          "link": "#cta"
-        }
+        "label": "Videos",
+        "value": "100+"
       }
     ]
   },
   "contact": {
-    "title": "Contact Us",
-    "description": "Have questions? Get in touch with our team.",
+    "title": "¡Contáctame!",
+    "description": "¿Tienes alguna pregunta, sugerencia o simplemente quieres saludar? ¡Escríbeme!",
     "fields": [
       {
         "name": "name",
-        "label": "Name",
+        "label": "Nombre",
         "type": "text",
         "required": true
       },
       {
         "name": "email",
-        "label": "Email",
+        "label": "Correo Electrónico",
         "type": "email",
         "required": true
-      },
-      {
-        "name": "message",
-        "label": "Message",
-        "type": "textarea",
-        "required": false
       }
     ],
-    "submitLabel": "Send Message",
-    "successMessage": "Thank you for your message! We'll be in touch soon.",
+    "submitLabel": "Enviar Mensaje",
+    "successMessage": "¡Gracias por tu mensaje! Te responderé lo antes posible.",
     "contactInfo": {
-      "title": "Contact Information",
-      "phone": {
-        "label": "Phone",
-        "number": "",
-        "hours": ""
-      },
+      "title": "Información de Contacto",
       "email": {
-        "label": "Email",
-        "address": "contact@allset-template.online",
-        "responseTime": "24 hours"
+        "label": "Correo",
+        "address": "imzodev@gmail.com",
+        "responseTime": "Usualmente respondo en 24 horas"
       },
       "location": {
-        "label": "Location",
-        "address": ["Online", "Worldwide"]
+        "label": "Ubicación",
+        "address": ["Por el mundo y", "México"]
       }
     }
-  },
-  "testimonials": {
-    "title": "What Our Users Are Saying",
-    "description": "Read testimonials from businesses that have transformed their landing pages with ALLSET Template.",
-    "image": "/placeholder.jpg",
-    "testimonials": [
-      {
-        "name": "Ralph Nault",
-        "title": "Software Engineer",
-        "quote": "The blog posts generated by ALLSET Template are so engaging and informative that our website traffic has skyrocketed.",
-        "image": "/static/images/testimonial1.jpg"
-      },
-      {
-        "name": "Jazmin Salinas",
-        "title": "Marketing Manager",
-        "quote": "ALLSET Template has saved us so much time and money. Our landing pages are now more effective than ever!",
-        "image": "/static/images/testimonial2.jpg"
-      },
-      {
-        "name": "Emily Davis",
-        "title": "Marketing Manager",
-        "quote": "ALLSET Template has been a lifesaver for our marketing team. It has helped us create professional landing pages in minutes.",
-        "image": "/static/images/testimonial3.jpg"
-      }
-    ]
   }
 }

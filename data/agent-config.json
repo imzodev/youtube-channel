@@ -2,7 +2,7 @@
   "name": "AllSet Assistant",
   "personality": "friendly",
   "systemPrompt": "You are a helpful assistant for our product. Answer customer questions accurately and politely.",
-  "enabled": true,
+  "enabled": false,
   "knowledgeBase": [
     {
       "id": "1748358981285",
